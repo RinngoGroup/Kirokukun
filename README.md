@@ -4,6 +4,22 @@
 <div align="center"> Tablet send user's temoerature to this server and add the data into database. </div>
 <br>
 
+## Introduction
+### What's this?
+Today, we have to take our temperature because we have to check our body condition not to spread COVID-19. <br>
+When we take our temperature, we have to write it on paper. You think it is really troublesome, don't you?
+In 44HR, they record it on Classi, but it is difficult to manage for our teacher and us.
+So, we made a tool to record our temperature easly and our teacher can check it easely.<br>
+It was named "<strong>Kirokukun<strong>".
+
+___
+
+### How to Use
+1. Access [Kirokukun](http://192.168.10.19) with your table in school(if you try to access with other device or on other place, you can not access).
+2. Write your temprature.
+3. Click button "submit".
+xIf you write wrong temprature, you can rewrite it.
+
 ## Language
 ### Web Pages
 * HTML
