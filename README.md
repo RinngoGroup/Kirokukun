@@ -6,7 +6,7 @@
 
 ## Introduction
 ### What's this?
-Today, we have to take our temperature because we have to check our body condition not to spread COVID-19. <br>
+Today, we have to take our temperature because we have to check our body condition not to spread <strong>COVID-19</strong>. <br>
 When we take our temperature, we have to write it on paper. You think it is really troublesome, don't you?
 In 44HR, they record it on Classi, but it is difficult to manage for our teacher and us.
 So, we made a tool to record our temperature easly and our teacher can check it easely.<br>
@@ -15,38 +15,33 @@ It was named "<strong>Kirokukun<strong>".
 ___
 
 ### How to Use
-1. Access [Kirokukun](http://192.168.10.19) with your table in school(if you try to access with other device or on other place, you can not access).
+1. Access [Kirokukun](http://192.168.10.19) with your tablet in school(if you try to access with other device or on other place, you can not access).
 2. Write your temprature.
-3. Click button "submit".
-xIf you write wrong temprature, you can rewrite it.
+3. Click button "submit". 
+<br>
+<p>See: If you write wrong temprature, you can rewrite it. Send again correct data.</p>
 
 ## Language
 ### Web Pages
 * HTML
 * CSS
 * JavaScript(?)
-
+___
 ### Server
-* PHP
-* SQLite
+* [PHP](https://www.php.net/)
+* [SQLite](https://sqlite.org/index.html)
 
 ## Software
-* Visual Studio Code
-* WinSCP
-* Git
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [WinSCP](https://winscp.net/eng/docs/lang:jp)
+* [Git](https://git-scm.com/)
 
 ## Device
-* Raspberry Pi Zero WH
+* [Raspberry Pi Zero WH](https://www.raspberrypi.com/)
 
-## Platform
+## Platform(We use)
 * Windows 10
 
 ## Links
 * [Repositry](https://github.com/RinngoGroup/Kirokukun)
 * [Slide for the poster(with PowerPoint)](https://mttokushimaecedjp-my.sharepoint.com/:f:/g/personal/2100021053_gs_tokushima-ec_ed_jp/ElQw8iwaRgtBqZjTXLC6_QYBebYJaXUlsVgeAA4fWwihbg?e=oxt4r1)
-
-___
-
-* [Visual Studio Code](https://code.visualstudio.com/)
-* [WinSCP](https://winscp.net/eng/docs/lang:jp)
-* [Git](https://git-scm.com/)
