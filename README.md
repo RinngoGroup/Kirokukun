@@ -9,7 +9,7 @@
 Today, we have to take our temperature because we have to check our body condition not to spread <strong>COVID-19</strong>. <br>
 When we take our temperature, we have to write it on paper. You think it is really troublesome, don't you?
 In 44HR, they record it on Classi, but it is difficult to manage for our teacher and us.
-So, we made a tool to record our temperature easly and our teacher can check it easely.<br>
+So, we made a tool to record our temperature easily and our teacher can check it easily.<br>
 It was named "<strong>Kirokukun<strong>".
 
 ___
