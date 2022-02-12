@@ -35,6 +35,7 @@ ___
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [WinSCP](https://winscp.net/eng/docs/lang:jp)
 * [Git](https://git-scm.com/)
+* [Apache2](https://httpd.apache.org/)
 
 ## Device
 * [Raspberry Pi Zero WH](https://www.raspberrypi.com/)
