@@ -1,7 +1,7 @@
 <h1 align="center"> 記録くん </h1>
 
 <h3 align="center"> We are making a system to gather temperature of students instead of Classi. </h3>
-<div align="center"> Tablet send user's temoerature to this server and add the data into database. </div>
+<div align="center"> Tablet send user's temperature to this server and add the data into database. </div>
 <br>
 
 ## Introduction
