@@ -1,4 +1,4 @@
-<h1 align="center"> 記録くん </h1>
+<h1 align="center"> <a href="http://192.168.10.19/Kirokukun" target="_blank">記録くん</a></h1>
 
 <h3 align="center"> We are making a system to gather temperature of students instead of Classi. </h3>
 <div align="center"> Tablet send user's temperature to this server and add the data into database. </div>
@@ -15,7 +15,7 @@ It was named "<strong>Kirokukun<strong>".
 ___
 
 ### How to Use
-1. Access [Kirokukun](http://192.168.10.19) with your tablet in school(if you try to access with other device or on other place, you can not access).
+1. Access [here](http://192.168.10.19/Kirokukun) with your tablet in school(if you try to access with other device or on other place, you can not access).
 2. Write your temprature.
 3. Click button "submit". 
 <p>See: If you write wrong temprature, you can rewrite it. Send again the correct data.</p>
