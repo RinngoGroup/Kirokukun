@@ -18,7 +18,7 @@ ___
 1. Access [here](http://192.168.10.19/Kirokukun) with your tablet in school(if you try to access with other device or on other place, you can not access).
 2. Write your temprature.
 3. Click button "submit". 
-<p>See: If you write wrong temprature, you can rewrite it. Send again the correct data.</p>
+<p>See: If you write wrong temperature, you can rewrite it. Send again the correct data.</p>
 
 ## Language
 ### Web Pages
